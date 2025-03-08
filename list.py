@@ -1,0 +1,12 @@
+inputlist = [1,2,3,4,3,2,4,5,6]
+print(inputlist)
+inputlist.insert(3,"New element")
+print(inputlist)
+inputlist.insert(5,5)
+print(inputlist)
+inputlist.append("hi")
+print(inputlist)
+inputlist.remove(2)
+print(inputlist)
+inputlist.pop(5)
+print(inputlist)
